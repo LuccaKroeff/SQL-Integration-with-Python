@@ -1,2 +1,2 @@
 # SQL-Integration-with-Python
-Trabalho da disciplina de Fundamentos de Banco de Dados
+Definição do sistema de negócios da Uber em SQL, bem como sua integração com Python.
